@@ -1,0 +1,36 @@
+
+profundidad=1
+matriz confusion=[16.0 14.0 0.0; 13.0 15.0 2.0; 0.0 0.0 30.0]
+
+profundidad=8
+matriz confusion=[29.0 1.0 0.0; 0.0 29.0 1.0; 0.0 0.0 30.0]
+
+profundidad=125
+matriz confusion=[29.0 1.0 0.0; 0.0 29.0 1.0; 0.0 0.0 30.0]
+
+profundidad=39
+matriz confusion=[29.0 1.0 0.0; 0.0 29.0 1.0; 0.0 0.0 30.0]
+
+profundidad=55
+matriz confusion=[29.0 1.0 0.0; 0.0 29.0 1.0; 0.0 0.0 30.0]
+
+profundidad=90
+matriz confusion=[29.0 1.0 0.0; 0.0 29.0 1.0; 0.0 0.0 30.0]
+
+profundidad=1
+matriz confusion=[16.0 14.0 0.0; 13.0 15.0 2.0; 0.0 0.0 30.0]
+
+profundidad=8
+matriz confusion=[29.0 1.0 0.0; 0.0 29.0 1.0; 0.0 0.0 30.0]
+
+profundidad=125
+matriz confusion=[29.0 1.0 0.0; 0.0 29.0 1.0; 0.0 0.0 30.0]
+
+profundidad=39
+matriz confusion=[29.0 1.0 0.0; 0.0 29.0 1.0; 0.0 0.0 30.0]
+
+profundidad=55
+matriz confusion=[29.0 1.0 0.0; 0.0 29.0 1.0; 0.0 0.0 30.0]
+
+profundidad=90
+matriz confusion=[29.0 1.0 0.0; 0.0 29.0 1.0; 0.0 0.0 30.0]

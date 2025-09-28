@@ -1,0 +1,17 @@
+profundidad=1
+validacion sin %=(1.0, 0.0, 1.0, 0.0)
+
+profundidad=8
+validacion sin %=(1.0, 0.0, 1.0, 0.0)
+
+profundidad=125
+validacion sin %=(1.0, 0.0, 1.0, 0.0)
+
+profundidad=39
+validacion sin %=(1.0, 0.0, 1.0, 0.0)
+
+profundidad=55
+validacion sin %=(1.0, 0.0, 1.0, 0.0)
+
+profundidad=90
+validacion sin %=(1.0, 0.0, 1.0, 0.0)

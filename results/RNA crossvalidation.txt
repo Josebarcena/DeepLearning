@@ -1,0 +1,55 @@
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [5, 7], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+validacion sin %=(0.8170166666666667, 0.04489681853014692, 0.7755677655677655, 0.053916790641082346)
+
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [5, 30], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+validacion sin %=(0.8852944444444443, 0.04129101485908621, 0.8576566466866467, 0.05234391357439011)
+
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [10, 1], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+validacion sin %=(0.5959611111111112, 0.04462492713814833, 0.4843580591630591, 0.05510320384601231)
+
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [10, 7], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+validacion sin %=(0.8737999999999999, 0.03299223835230345, 0.8452611410811409, 0.039780157387706315)
+
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [15, 8], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+validacion sin %=(0.8824500000000001, 0.0368491200364714, 0.8549092729492731, 0.0456877778145817)
+
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [25, 8], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+validacion sin %=(0.9129388888888889, 0.04734463762596727, 0.8941867095867095, 0.05836737564828797)
+
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [35, 8], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+validacion sin %=(0.9224777777777777, 0.03952593043755874, 0.9045802031302032, 0.04673628885942486)
+
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [45, 8], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+validacion sin %=(0.9241055555555555, 0.03971187769991086, 0.907102763902764, 0.047976519769181165)
+
+
+
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [5, 7], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+validacion sin %=(0.8170166666666667, 0.04489681853014692, 0.7755677655677655, 0.053916790641082346)
+
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [5, 30], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+validacion sin %=(0.8852944444444443, 0.04129101485908621, 0.8576566466866467, 0.05234391357439011)
+
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [10, 1], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+validacion sin %=(0.5959611111111112, 0.04462492713814833, 0.4843580591630591, 0.05510320384601231)
+
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [10, 7], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+validacion sin %=(0.8737999999999999, 0.03299223835230345, 0.8452611410811409, 0.039780157387706315)
+
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [15, 8], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+validacion sin %=(0.8824500000000001, 0.0368491200364714, 0.8549092729492731, 0.0456877778145817)
+
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [25, 8], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+validacion sin %=(0.9129388888888889, 0.04734463762596727, 0.8941867095867095, 0.05836737564828797)
+
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [35, 8], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+validacion sin %=(0.9224777777777777, 0.03952593043755874, 0.9045802031302032, 0.04673628885942486)
+
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [45, 8], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+validacion sin %=(0.9241055555555555, 0.03971187769991086, 0.907102763902764, 0.047976519769181165)
+
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+validacion sin %=(0.24074880952380956, 0.019317739470860625, 0.1523101767146559, 0.015369548192719152)
+
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+validacion sin %=(0.24074880952380956, 0.019317739470860625, 0.1523101767146559, 0.015369548192719152)

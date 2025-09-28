@@ -1,0 +1,23 @@
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [5, 7], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+validacion sin %=(0.9163238095238097, 0.02765836282236539, 0.892852380952381, 0.034253147746031505)
+
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [5, 30], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+validacion sin %=(0.9444952380952379, 0.024820151274660935, 0.9233999999999998, 0.03302142963008739)
+
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [10, 1], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+validacion sin %=(0.9474857142857143, 0.018491795079460787, 0.926552380952381, 0.03190135968592929)
+
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [10, 7], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+validacion sin %=(0.9489619047619048, 0.02537306229546273, 0.9341904761904762, 0.036197298159585306)
+
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [15, 8], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+validacion sin %=(0.9585238095238096, 0.02535656531125568, 0.9342857142857142, 0.044641287450358086)
+
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [25, 8], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+validacion sin %=(0.9589428571428572, 0.0224612743079598, 0.942952380952381, 0.03629739150244243)
+
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [35, 8], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+validacion sin %=(0.9834857142857143, 0.007822057306033152, 0.9764761904761905, 0.013801676296070223)
+
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [45, 8], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+validacion sin %=(0.9802571428571429, 0.015877335920058095, 0.9771047619047618, 0.019726893190281918)

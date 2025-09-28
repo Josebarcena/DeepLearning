@@ -1,0 +1,40 @@
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [5, 7], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+matriz confusion=[26.04 0.9599999999999999 2.0; 2.02 26.839999999999996 2.14; 2.0000000000000004 1.04 26.96]
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [5, 30], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+matriz confusion=[26.4 1.6 1.0; 0.64 29.119999999999997 1.24; 0.64 1.6599999999999997 27.7]
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [5, 7], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+matriz confusion=[23.68 2.12 3.2000000000000006; 2.8800000000000003 24.9 3.2200000000000006; 2.64 2.34 25.019999999999996]
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [5, 30], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+matriz confusion=[25.36 2.18 1.4600000000000002; 1.3399999999999999 27.839999999999996 1.8200000000000003; 1.32 2.2199999999999998 26.46]
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [10, 1], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+matriz confusion=[18.64 5.9799999999999995 4.38; 4.300000000000001 18.839999999999996 7.860000000000001; 3.3 10.559999999999999 16.14]
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [10, 7], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+matriz confusion=[24.92 1.96 2.12; 1.54 27.1 2.3600000000000003; 1.46 1.9200000000000004 26.619999999999997]
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [15, 8], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+matriz confusion=[25.28 1.8599999999999999 1.8599999999999999; 1.4999999999999996 27.400000000000002 2.1; 1.4399999999999995 1.8599999999999999 26.7]
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [25, 8], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+matriz confusion=[26.740000000000002 1.02 1.2400000000000002; 1.54 27.880000000000003 1.58; 1.56 0.9000000000000001 27.54]
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [35, 8], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+matriz confusion=[26.899999999999995 1.02 1.08; 1.2400000000000002 28.34 1.42; 1.2000000000000002 1.02 27.779999999999994]
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [45, 8], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+matriz confusion=[26.500000000000004 1.36 1.1400000000000001; 0.68 28.740000000000002 1.58; 0.78 1.32 27.9]
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [5, 7], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+matriz confusion=[23.68 2.12 3.2000000000000006; 2.8800000000000003 24.9 3.2200000000000006; 2.64 2.34 25.019999999999996]
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [5, 30], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+matriz confusion=[25.36 2.18 1.4600000000000002; 1.3399999999999999 27.839999999999996 1.8200000000000003; 1.32 2.2199999999999998 26.46]
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [10, 1], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+matriz confusion=[18.64 5.9799999999999995 4.38; 4.300000000000001 18.839999999999996 7.860000000000001; 3.3 10.559999999999999 16.14]
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [10, 7], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+matriz confusion=[24.92 1.96 2.12; 1.54 27.1 2.3600000000000003; 1.46 1.9200000000000004 26.619999999999997]
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [15, 8], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+matriz confusion=[25.28 1.8599999999999999 1.8599999999999999; 1.4999999999999996 27.400000000000002 2.1; 1.4399999999999995 1.8599999999999999 26.7]
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [25, 8], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+matriz confusion=[26.740000000000002 1.02 1.2400000000000002; 1.54 27.880000000000003 1.58; 1.56 0.9000000000000001 27.54]
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [35, 8], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+matriz confusion=[26.899999999999995 1.02 1.08; 1.2400000000000002 28.34 1.42; 1.2000000000000002 1.02 27.779999999999994]
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "topology" => [45, 8], "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+matriz confusion=[26.500000000000004 1.36 1.1400000000000001; 0.68 28.740000000000002 1.58; 0.78 1.32 27.9]
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+matriz confusion=[4.9799999999999995 6.840000000000001 4.86 7.68 6.639999999999999; 4.740000000000001 8.68 4.46 6.559999999999999 5.56; 4.6 6.22 4.919999999999999 7.0 6.26; 4.56 5.4 4.54 9.46 6.04; 4.96 4.3999999999999995 5.620000000000001 6.98 8.040000000000001]
+parametrosDict{Any, Any}("learningRate" => 0.01, "maxEpochs" => 1000, "validationRatio" => 0.2, "numExecutions" => 50, "maxEpochsVal" => 6)
+matriz confusion=[4.9799999999999995 6.840000000000001 4.86 7.68 6.639999999999999; 4.740000000000001 8.68 4.46 6.559999999999999 5.56; 4.6 6.22 4.919999999999999 7.0 6.26; 4.56 5.4 4.54 9.46 6.04; 4.96 4.3999999999999995 5.620000000000001 6.98 8.040000000000001]

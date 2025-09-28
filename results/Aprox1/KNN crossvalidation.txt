@@ -1,0 +1,17 @@
+numero vecinos=3
+validacion sin %=(1.0, 0.0, 1.0, 0.0)
+
+numero vecinos=9
+validacion sin %=(1.0, 0.0, 1.0, 0.0)
+
+numero vecinos=12
+validacion sin %=(1.0, 0.0, 1.0, 0.0)
+
+numero vecinos=15
+validacion sin %=(1.0, 0.0, 1.0, 0.0)
+
+numero vecinos=31
+validacion sin %=(1.0, 0.0, 1.0, 0.0)
+
+numero vecinos=50
+validacion sin %=(1.0, 0.0, 1.0, 0.0)

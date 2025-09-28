@@ -1,0 +1,24 @@
+
+parametrosDict{Any, Any}("kernelGamma" => 1, "C" => 2, "kernel" => "linear", "kernelDegree" => 1)
+validacion sin %=(1.0, 0.0, 1.0, 0.0)
+
+parametrosDict{Any, Any}("kernelGamma" => 2, "C" => 1, "kernel" => "linear", "kernelDegree" => 1)
+validacion sin %=(1.0, 0.0, 1.0, 0.0)
+
+parametrosDict{Any, Any}("kernelGamma" => 1, "C" => 1, "kernel" => "rbf", "kernelDegree" => 1)
+validacion sin %=(1.0, 0.0, 1.0, 0.0)
+
+parametrosDict{Any, Any}("kernelGamma" => 2, "C" => 1, "kernel" => "rbf", "kernelDegree" => 1)
+validacion sin %=(1.0, 0.0, 1.0, 0.0)
+
+parametrosDict{Any, Any}("kernelGamma" => 2, "C" => 1, "kernel" => "poly", "kernelDegree" => 3)
+validacion sin %=(1.0, 0.0, 1.0, 0.0)
+
+parametrosDict{Any, Any}("kernelGamma" => 3, "C" => 4, "kernel" => "poly", "kernelDegree" => 2)
+validacion sin %=(0.8357142857142857, 0.19259731664652205, 0.8126984126984127, 0.2251694210180095)
+
+parametrosDict{Any, Any}("kernelGamma" => 2, "C" => 1, "kernel" => "sigmoid", "kernelDegree" => 1)
+validacion sin %=(1.0, 0.0, 1.0, 0.0)
+
+parametrosDict{Any, Any}("kernelGamma" => 3, "C" => 2, "kernel" => "sigmoid", "kernelDegree" => 1)
+validacion sin %=(1.0, 0.0, 1.0, 0.0)

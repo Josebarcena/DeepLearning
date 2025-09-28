@@ -1,0 +1,36 @@
+
+numero vecinos=3
+validacion sin %=(1.0, 0.0, 1.0, 0.0)
+
+numero vecinos=9
+validacion sin %=(1.0, 0.0, 1.0, 0.0)
+
+numero vecinos=12
+validacion sin %=(1.0, 0.0, 1.0, 0.0)
+
+numero vecinos=15
+validacion sin %=(1.0, 0.0, 1.0, 0.0)
+
+numero vecinos=31
+validacion sin %=(0.5311111111111111, 0.11976199534126303, 0.47385714285714287, 0.14810211019364905)
+
+numero vecinos=50
+validacion sin %=(0.33416666666666667, 0.017764752172577204, 0.18978049728049728, 0.025742903442775352)
+
+numero vecinos=3
+validacion sin %=(1.0, 0.0, 1.0, 0.0)
+
+numero vecinos=9
+validacion sin %=(1.0, 0.0, 1.0, 0.0)
+
+numero vecinos=12
+validacion sin %=(1.0, 0.0, 1.0, 0.0)
+
+numero vecinos=15
+validacion sin %=(1.0, 0.0, 1.0, 0.0)
+
+numero vecinos=31
+validacion sin %=(0.5311111111111111, 0.11976199534126303, 0.47385714285714287, 0.14810211019364905)
+
+numero vecinos=50
+validacion sin %=(0.33416666666666667, 0.017764752172577204, 0.18978049728049728, 0.025742903442775352)

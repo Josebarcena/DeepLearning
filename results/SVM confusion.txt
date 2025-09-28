@@ -1,0 +1,48 @@
+
+parametrosDict{Any, Any}("kernelGamma" => 1, "C" => 2, "kernel" => "linear", "kernelDegree" => 1)
+matriz confusion=[30.0 0.0 0.0; 0.0 30.0 0.0; 0.0 0.0 30.0]
+
+parametrosDict{Any, Any}("kernelGamma" => 2, "C" => 1, "kernel" => "linear", "kernelDegree" => 1)
+matriz confusion=[30.0 0.0 0.0; 0.0 30.0 0.0; 0.0 0.0 30.0]
+
+parametrosDict{Any, Any}("kernelGamma" => 1, "C" => 1, "kernel" => "rbf", "kernelDegree" => 1)
+matriz confusion=[29.0 1.0 0.0; 0.0 30.0 0.0; 0.0 0.0 30.0]
+
+parametrosDict{Any, Any}("kernelGamma" => 2, "C" => 1, "kernel" => "rbf", "kernelDegree" => 1)
+matriz confusion=[29.0 1.0 0.0; 0.0 30.0 0.0; 0.0 0.0 30.0]
+
+parametrosDict{Any, Any}("kernelGamma" => 2, "C" => 1, "kernel" => "poly", "kernelDegree" => 3)
+matriz confusion=[29.0 0.0 1.0; 0.0 30.0 0.0; 0.0 0.0 30.0]
+
+parametrosDict{Any, Any}("kernelGamma" => 3, "C" => 4, "kernel" => "poly", "kernelDegree" => 2)
+matriz confusion=[29.0 1.0 0.0; 0.0 30.0 0.0; 0.0 0.0 30.0]
+
+parametrosDict{Any, Any}("kernelGamma" => 2, "C" => 1, "kernel" => "sigmoid", "kernelDegree" => 1)
+matriz confusion=[18.0 12.0 0.0; 17.0 13.0 0.0; 0.0 0.0 30.0]
+
+parametrosDict{Any, Any}("kernelGamma" => 3, "C" => 2, "kernel" => "sigmoid", "kernelDegree" => 1)
+matriz confusion=[18.0 12.0 0.0; 17.0 13.0 0.0; 0.0 0.0 30.0]
+
+parametrosDict{Any, Any}("kernelGamma" => 1, "C" => 2, "kernel" => "linear", "kernelDegree" => 1)
+matriz confusion=[30.0 0.0 0.0; 0.0 30.0 0.0; 0.0 0.0 30.0]
+
+parametrosDict{Any, Any}("kernelGamma" => 2, "C" => 1, "kernel" => "linear", "kernelDegree" => 1)
+matriz confusion=[30.0 0.0 0.0; 0.0 30.0 0.0; 0.0 0.0 30.0]
+
+parametrosDict{Any, Any}("kernelGamma" => 1, "C" => 1, "kernel" => "rbf", "kernelDegree" => 1)
+matriz confusion=[29.0 1.0 0.0; 0.0 30.0 0.0; 0.0 0.0 30.0]
+
+parametrosDict{Any, Any}("kernelGamma" => 2, "C" => 1, "kernel" => "rbf", "kernelDegree" => 1)
+matriz confusion=[29.0 1.0 0.0; 0.0 30.0 0.0; 0.0 0.0 30.0]
+
+parametrosDict{Any, Any}("kernelGamma" => 2, "C" => 1, "kernel" => "poly", "kernelDegree" => 3)
+matriz confusion=[29.0 0.0 1.0; 0.0 30.0 0.0; 0.0 0.0 30.0]
+
+parametrosDict{Any, Any}("kernelGamma" => 3, "C" => 4, "kernel" => "poly", "kernelDegree" => 2)
+matriz confusion=[29.0 1.0 0.0; 0.0 30.0 0.0; 0.0 0.0 30.0]
+
+parametrosDict{Any, Any}("kernelGamma" => 2, "C" => 1, "kernel" => "sigmoid", "kernelDegree" => 1)
+matriz confusion=[18.0 12.0 0.0; 17.0 13.0 0.0; 0.0 0.0 30.0]
+
+parametrosDict{Any, Any}("kernelGamma" => 3, "C" => 2, "kernel" => "sigmoid", "kernelDegree" => 1)
+matriz confusion=[18.0 12.0 0.0; 17.0 13.0 0.0; 0.0 0.0 30.0]
